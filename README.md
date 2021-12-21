@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrmay-dev
-- 👀 I’m interested in backpacking, using R as a teacher, ADHD research
-- 🌱 I’m currently learning R and Autohotkey, will probably move up to Perl
-- 💞️ I’m looking to collaborate on nothing, yet.
+- 👀 I’m interested in backpacking, using programming as a teacher, ADHD research, and micro-controllers
+- 🌱 I play with R, Autohotkey, Python and CircuitPython 
+- 💞️ I’m not (yet) worthy of ~~screwing up~~ contributing to someone else's code.
 - 📫 How to reach me: use GitHub
 
 <!---
